@@ -28,7 +28,7 @@ Each project focuses on real-world business problems and delivers actionable ins
 - Built Power BI dashboards to analyze hourly, daily, and monthly sales trends.
 - Provided actionable recommendations for staffing, product mix, and promotions.
 
-🔗 [View Project]()
+🔗 [View Project](https://github.com/pawan728/Data_Analyst_Projects/tree/main/Coffee-Shop-Sales-Analysis)
 
 ---
 

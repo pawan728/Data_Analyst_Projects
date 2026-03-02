@@ -16,7 +16,7 @@ Each project focuses on real-world business problems and delivers actionable ins
 - Created interactive Power BI dashboards to visualize churn trends, demographics, and usage behavior.
 - Identified key churn drivers and provided retention-focused insights.
 
-🔗 [View Project](./Data-Analyst-Projects/Telecom%20Customer%20Churn%20Analysis)
+🔗 [View Project](https://github.com/pawan728/Data_Analyst_Projects/tree/main/Telecom%20Customer%20Churn%20Analysis)
 
 ---
 
@@ -28,7 +28,7 @@ Each project focuses on real-world business problems and delivers actionable ins
 - Built Power BI dashboards to analyze hourly, daily, and monthly sales trends.
 - Provided actionable recommendations for staffing, product mix, and promotions.
 
-🔗 [View Project](./Data-Analyst-Projects/Coffee-Shop-Sales-Analysis)
+🔗 [View Project]()
 
 ---
 

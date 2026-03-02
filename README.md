@@ -1,3 +1,4 @@
+# Aspiring Data Analyst | SQL | Python | Power BI
 # Data_Analyst_Projects.
 
 This repository contains entry-level data analyst projects demonstrating practical skills in SQL, Python, and Power BI.  
@@ -15,7 +16,7 @@ Each project focuses on real-world business problems and delivers actionable ins
 - Created interactive Power BI dashboards to visualize churn trends, demographics, and usage behavior.
 - Identified key churn drivers and provided retention-focused insights.
 
-📁 Folder: `Telecom Customer Churn Analysis`
+🔗 [View Project](./Data-Analyst-Projects/Telecom Customer Churn Analysis)
 
 ---
 
@@ -27,7 +28,7 @@ Each project focuses on real-world business problems and delivers actionable ins
 - Built Power BI dashboards to analyze hourly, daily, and monthly sales trends.
 - Provided actionable recommendations for staffing, product mix, and promotions.
 
-📁 Folder: `Coffee-Shop-Sales-Analysis`
+🔗 [View Project](./Data-Analyst-Projects/Coffee-Shop-Sales-Analysis)
 
 ---
 

@@ -16,7 +16,7 @@ Each project focuses on real-world business problems and delivers actionable ins
 - Created interactive Power BI dashboards to visualize churn trends, demographics, and usage behavior.
 - Identified key churn drivers and provided retention-focused insights.
 
-🔗 [View Project](./Data-Analyst-Projects/Telecom Customer Churn Analysis)
+🔗 [View Project](./Data-Analyst-Projects/Telecom%20Customer%20Churn%20Analysis)
 
 ---
 
